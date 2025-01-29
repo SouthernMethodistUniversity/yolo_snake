@@ -4,6 +4,8 @@
 
 Clone the repo and set up the python environment.
 
+`conda env create -f environment.yml`
+
 ## To Play
 
 Open 2 terminal sessions.
